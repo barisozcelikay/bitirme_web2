@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Kaan",
+  name: "Blockchain Based Chat Application",
 };
 const background = {
   // Options: Snow or Particle
@@ -17,7 +17,7 @@ const background = {
 };
 // Write a para about yourself here
 // To update your image, go to './styles/images.css'
-const section2title = "About Me";
+const section2title = "About Us";
 const about = {
   paragraph:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
@@ -80,14 +80,14 @@ const skillsBar = [
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
-const section3Title = "Past Projects";
+const section3Title = "Reports";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Project Proposal",
+    skills: ["17, 10, 2021"],
+    url: "https://docs.google.com/document/d/1kQLXNl85qrvTQAdBVTvbklPxeH0nybku4XnT4y_qe3Y/edit?usp=sharing", // En sonki belgeyi koydum kontrol edip değiştirilebilir.
   },
   {
     // Add image in './styles/images.css' in #project2
@@ -149,6 +149,7 @@ const miscellaneous = [
     url: "https://github.com/kaustubhai",
   },
 ];
+
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
 // If you hacve the link already, paste it in the contactUrl below

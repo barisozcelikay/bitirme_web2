@@ -435,6 +435,7 @@ input:checked + .slider:before {
   border-radius: 50%;
 }
 .line-1 {
+  
   position: relative;
   top: 10%;
   width: 12em;
@@ -449,7 +450,7 @@ input:checked + .slider:before {
 }
 .anim-typewriter {
   animation: typewriter 4s steps(27) 1s 1 normal both,
-    blinkTextCursor 0.5s steps(27) infinite normal;
+    blinkTextCursor 0.5s steps(27) infinite normal ;
 }
 .parallax {
   background-image: url(https://images.pexels.com/photos/691668/pexels-photo-691668.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);

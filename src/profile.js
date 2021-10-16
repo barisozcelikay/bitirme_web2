@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Blockchain Based Chat Application",
+  name: "Blockchain-Based Chat Application",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,9 +20,11 @@ const background = {
 const section2title = "About Us";
 const about = {
   project:
-    "This is our mother fucking project",
+    'The purpose of this project is to secure people’s private conversations on their chat applications. Nowadays there are a couple of compinies that shared their users information to 3rd party compinies. This situation is unlegal so we came up with solution that inspired from the these kind of problems that occured in beginning of 2021. The popular chat apps such as: telegram, turkcell’s bip etc. still hasn’t been able to solve the privacy problem that occured, fully. Our goal is to make this privacy issue disappear and make people conversate without security doubts on their mind' +
+
+    'For users’ privacy and security, we came with the idea of using blockchain technology. Its a famious technology that uses in crypto currency. Most of the people just heard blokchain in this area but it is not limited to just that. This technology provides powerful security and reachability. With these features we can able to develop decentralized app. So this approcah is very suitable for our purpose and needs. Thus, we will develop our chat application with using blockchain technology',
   about_us:
-    "We are computer engineering students at TED University.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. " + "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "We are TED University Computer Engineering Students: Barış Özçelikay, Kadir Kaan Yazgan, Gökay Özsoy and Onur Aladı. This is our website of senior project. We eager to learn and implement new technologies. Through this project, we aim to show users the possibilities of new technologies"
 
 };
 // Edit your skill and the percentage you know about it

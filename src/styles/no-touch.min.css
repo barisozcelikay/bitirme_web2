@@ -544,7 +544,7 @@ input:checked + .slider:before {
     padding: 10px;
   }
   .half p {
-    display: none;
+    display: block; /*none değiştirildi*/
   }
   .gtp {
     left: 80%;

@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "Blockchain-Based Chat Application",
+  name: "TEDU CHAT",
 };
 const background = {
   // Options: Snow or Particle

@@ -244,7 +244,7 @@ button:focus {
   text-align: center;
 }
 .git-cont {
-  display: inline-block;
+  display: flex; /*inline-block tu değiştirdim*/
 }
 .half {
   display: inline-block;

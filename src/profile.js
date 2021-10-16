@@ -95,38 +95,25 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Project Specifications Report",
+    skills: ["25, 10, 2021"],
+    url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5262",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Analysis Report",
+    skills: ["22, 11, 2021"],
+    url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5265",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "High-Level Design Report",
+    skills: ["03, 01, 2022"],
+    url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5267",
   },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
+
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
@@ -156,22 +143,28 @@ const miscellaneous = [
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
 // If you hacve the link already, paste it in the contactUrl below
-const section5Title = "Get in Touch";
+const section5Title = "Team Members";
 const contact = {
-  pitch:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae.",
-  copyright: "Kaustubh Mishra",
+  students:
+  {
+    baris: "Barış Özçelikay",
+    gokay: "Gökay Özsoy",
+    kaan: " Kadir Kaan Yazgan",
+    onur: "Onur Aladı"
+  },
+
+  copyright: "Group Temproray",
   contactUrl: "",
 };
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  facebook: "https://facebook.com",
+  //facebook: { baris: "", gokay: "", kaan: "", onur: "" },
+  github: { baris: "https://github.com/barisozcelikay", gokay: "", kaan: "https://github.com/kaanyzgn", onur: "https://github.com/onuraladi" },
   // twitter: "https://twitter.com",
-  instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
-  resume: "https://novoresume.com/",
+  instagram: { baris: "https://www.instagram.com/barisozcelikay/", gokay: "https://www.instagram.com/gokayozsoy2/", kaan: "https://www.instagram.com/kaanyzgnn/", onur: "https://www.instagram.com/onuraladi/" },
+  linkedin: { baris: "https://www.linkedin.com/in/barisozcelikay/", gokay: "https://www.linkedin.com/in/g%C3%B6kay-%C3%B6zsoy-3597851b9/", kaan: "https://www.linkedin.com/in/kaanyazgan1/", onur: "https://www.linkedin.com/in/onur-alad%C4%B1-26a640202/" },
+  //resume: "https://novoresume.com/",
 };
 // Dont change anything here
 export {

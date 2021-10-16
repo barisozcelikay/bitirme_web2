@@ -465,10 +465,10 @@ input:checked + .slider:before {
 }
 @keyframes blinkTextCursor {
   from {
-    border-right-color: rgba(25, 25, 25, 0.75);
+    border-right-color: white/*rgba(25, 25, 25, 0.75)*/;
   }
   to {
-    border-right-color: transparent;
+    border-right-color: white/*transparent*/; /*Başlangıçtaki beyaz line ı KALDIRDIK*/
   }
 }
 ::-moz-selection {

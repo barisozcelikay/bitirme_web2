@@ -22,8 +22,8 @@ function App() {
     <div className="App">
       <Header />
       <Particles />
-      <About />
       <Works />
+      <About topic="about_us" />
       <Contact />
     </div>
   );

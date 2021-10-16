@@ -10,23 +10,24 @@
 
 /* Projects Photo */
 .project1{
-    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\yatayeng-01_0.png);
+    background-image: url('http://www.tedu.edu.tr/sites/default/files/content_files/yatayeng-01_0.png');
     cursor: auto;    
 }
 .project2{
-    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\comingSoon.png);
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v351-kul-39a-equalizerbackground_2.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=cf77153d08fcad4f349c8490330279da);
     cursor: auto;
 }
 .project3{
-    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\comingSoon.png);
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v351-kul-39a-equalizerbackground_2.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=cf77153d08fcad4f349c8490330279da );
+    
     cursor: auto;
 }
 .project4{
-    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\comingSoon.png);
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v351-kul-39a-equalizerbackground_2.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=cf77153d08fcad4f349c8490330279da );
     cursor: auto;
 }
 .project5{
-    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\pngegg.png);
+    background-image: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v351-kul-39a-equalizerbackground_2.jpg?w=1000&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=cf77153d08fcad4f349c8490330279da );
     cursor: auto;
 }
 .project6{

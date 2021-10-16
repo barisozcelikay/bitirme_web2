@@ -22,6 +22,7 @@ function App() {
     <div className="App">
       <Header />
       <Particles />
+      <About topic="project" />
       <Works />
       <About topic="about_us" />
       <Contact />

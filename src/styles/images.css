@@ -1,35 +1,40 @@
 
 /* Add your profile image here */
 .Photo{
-    background-image: url('https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif');
+    background-image: url('https://i.gifer.com/AD9T.gif');
 }
+
+.Phot{
+    background-image: url('https://c.tenor.com/0JAYbcXuPiQAAAAC/gary-tay-excuse-me-but-who-are-you.gif') ;
+}
+
 /* Projects Photo */
 .project1{
     background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\yatayeng-01_0.png);
-    cursor: none;    
+    cursor: auto;    
 }
 .project2{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
-    cursor: none;
+    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\comingSoon.png);
+    cursor: auto;
 }
 .project3{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
-    cursor: none;
+    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\comingSoon.png);
+    cursor: auto;
 }
 .project4{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
-    cursor: none;
+    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\comingSoon.png);
+    cursor: auto;
 }
 .project5{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
-    cursor: none;
+    background-image: url(C:\Users\Baris\Desktop\a\bitirme_web2\src\pngegg.png);
+    cursor: auto;
 }
 .project6{
     background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
-    cursor: none;
+    cursor: auto; /*none dı*/
 }
 /* Miscelaneous Activities photo */
-.misc1{
+/*.misc1{
     background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
     cursor: none;
 }
@@ -41,3 +46,4 @@
     background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+three');
     cursor: none;
 }
+*/

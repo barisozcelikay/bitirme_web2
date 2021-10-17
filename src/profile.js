@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "TEDU CHAT",
+  name: "CHAIN CHAT",
 };
 const background = {
   // Options: Snow or Particle

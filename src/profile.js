@@ -98,8 +98,8 @@ const projects = [
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "Project Specifications Report",
-    skills: ["25, 10, 2021"],
-    url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5262",
+    skills: ["05, 11, 2021"],
+    url: "https://docs.google.com/document/d/1RhGbHb6UaigExSexmEJgODSbQ94m3KS5SxtL_iTQbZE/edit?usp=sharing",
   },
   {
     // Add image in './styles/images.css' in #project3

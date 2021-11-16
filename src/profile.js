@@ -105,14 +105,14 @@ const projects = [
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "Analysis Report",
-    skills: ["22, 11, 2021"],
+    skills: ["28, 11, 2021"],
     url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5265",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "High-Level Design Report",
-    skills: ["03, 01, 2022"],
+    skills: ["09, 01, 2022"],
     url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5267",
   },
 

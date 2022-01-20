@@ -106,14 +106,14 @@ const projects = [
     id: "project3",
     name: "Analysis Report",
     skills: ["28, 11, 2021"],
-    url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5265",
+    url: "https://docs.google.com/document/d/1bdNu_O2JgULJMuwJ9Cw8ZC46e3NK-iVnSbSiLvz83_E/edit?usp=sharing",
   },
   {
     // Add image in './styles/images.css' in #project4
     id: "project4",
     name: "High-Level Design Report",
     skills: ["09, 01, 2022"],
-    url: "https://lms.tedu.edu.tr/mod/assign/view.php?id=5267",
+    url: "https://docs.google.com/document/d/1Bze453tFaP6zMRWeX2-4c4XGcf8LrO8B3hCV2WbG2kg/edit?usp=sharing",
   },
 
 ];

@@ -115,6 +115,20 @@ const projects = [
     skills: ["09, 01, 2022"],
     url: "https://docs.google.com/document/d/1Bze453tFaP6zMRWeX2-4c4XGcf8LrO8B3hCV2WbG2kg/edit?usp=sharing",
   },
+   {
+    // Add image in './styles/images.css' in #project4
+    id: "project5",
+    name: "Low-Level Design Report",
+    skills: ["09, 01, 2022"],
+    url: "https://docs.google.com/document/d/1UyJhwKhJqvpuC7tEcds6hGvlWBS53qgFYCd7lvEzuqs/edit?usp=sharing",
+  },
+   {
+    // Add image in './styles/images.css' in #project4
+    id: "project6",
+    name: "Test Plan Report",
+    skills: ["09, 01, 2022"],
+    url: "https://docs.google.com/document/d/1KNO4k2m_SJpdMNmVjdeFhSZAvHbqU4W-f7TRKtEvryE/edit?usp=sharing",
+  },
 
 ];
 // Edit your Miscellaneous Activities, its name and the url.
